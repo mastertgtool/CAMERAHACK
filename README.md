@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://www.onlinehacking.in/pubg-bgmi-mobile-account-hack-phishing-tool-with-termux"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a></p>
+<a href="https://www.onlinehacking.in/hack-front-camera-target-phone-using-termux-linux"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a></p>
 <p align="center">
     <img src="https://img.shields.io/badge/Version-2.1-blue?style=for-the-badge&color=blue">
      <img src="https://img.shields.io/github/stars/OnlineHacKing/CameraHack?style=for-the-badge&color=magenta">
